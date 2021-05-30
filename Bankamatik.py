@@ -51,6 +51,6 @@ def bakiyeSorgu(isim):
 
 
 
-ParaCek(CanHesap,7120)
+ParaCek(CanHesap,3000)
 #bakiyeSorgu(CanHesap)
 
